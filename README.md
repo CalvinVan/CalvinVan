@@ -5,7 +5,7 @@
 ⚡ Fun fact: If I was born a day earlier, I would have been put in the grade above<br>me.
 
 ## Personal Website:
-[![person website](https://calvinvan.github.io)
+[Personal Website Link](https://calvinvan.github.io)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cvan923/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/CalvinVan) 
