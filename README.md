@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m a first-generation computer science undergraduate at <br>the University of Texas at Dallas and I was born and raised in Mississippi.<br><br>🤝My inspiration for working in technology is that I am passionate in being<br>able to contribute to technology that will make the lives of others<br>easier and is very accessible.<br><br>🌱 Outside of CS, my hobbies and interests are playing volleyball (setter),<br>playing spikeball, and learning a bunch of random "party-tricks" such<br>as breakdancing, butterfly knife tricks, and juggling to name a few.<br><br>⚡ Fun fact: If I was born a day earlier, I would have been in the grade above<br>me.
+🔭 I’m a first-generation computer science undergraduate at <br>the University of Texas at Dallas and I was born and raised in Mississippi.<br><br>
+🤝My inspiration for working in technology is that hope that I will be <br>able to contribute to technology that will make the lives of others<br>easier and is very accessible.<br><br>
+🌱 Outside of CS, my hobbies and interests are playing volleyball (setter),<br>playing spikeball, and learning a bunch of random "party-tricks" such<br>as breakdancing, butterfly knife tricks, and juggling to name a few.<br><br>
+⚡ Fun fact: If I was born a day earlier, I would have been put in the grade above<br>me.
 
 
 ## 🌐 Socials:
